@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.click-to-fix-temp/
+*.local
+.env
+.DS_Store
+*.tsbuildinfo
