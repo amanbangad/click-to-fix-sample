@@ -3,7 +3,7 @@ export function Hero() {
     <section className="hero">
       <div className="container hero-inner">
         <div className="hero-copy">
-          <span className="eyebrow">Mango</span>
+          <span className="eyebrow">Apple</span>
           <h1 className="hero-title">Ship reliable software, faster.</h1>
           <p className="hero-sub">
             Nimbus gives your team one place to build, test, and release - with
