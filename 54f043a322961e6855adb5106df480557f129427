@@ -1,0 +1,23 @@
+src/components/Hero.tsx
+  633d120045268ce3 27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.2",
+  "base_commit_sha": "54f043a322961e6855adb5106df480557f129427",
+  "prompts": {
+    "633d120045268ce3": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "3c3268e6-0d34-4437-a102-835608a1d8f1",
+        "model": "claude-opus-5"
+      },
+      "human_author": "factory-aman",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
