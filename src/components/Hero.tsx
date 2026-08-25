@@ -23,7 +23,7 @@ export function Hero() {
         <div className="hero-art">
           <div className="hero-card">
             <div className="hero-card-row">
-              <span className="pill pill-blue">DEPLOY</span>
+              <span className="pill pill-blue">Deploy</span>
               <span className="muted">2m ago</span>
             </div>
             <div className="hero-bar">
