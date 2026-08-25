@@ -24,7 +24,7 @@ export function Hero() {
           <div className="hero-card">
             <div className="hero-card-row">
               <span className="pill pill-blue">DEPLOY</span>
-              <span className="muted">2m ago</span>
+              <span className="muted">5m ago</span>
             </div>
             <div className="hero-bar">
               <span style={{ width: '82%' }} />
